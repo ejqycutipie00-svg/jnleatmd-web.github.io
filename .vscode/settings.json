@@ -1,0 +1,12 @@
+{
+  "dart.flutterSdkPath": "C:\\flutter",
+  "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk",
+  "dart.analysisExcludedFolders": [
+    ".dart_tool",
+    "build",
+    "windows/flutter/ephemeral",
+    "ios/Flutter/ephemeral",
+    "linux/flutter/ephemeral",
+    "macos/Flutter/ephemeral"
+  ]
+}
